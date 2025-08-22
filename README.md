@@ -1,1 +1,1 @@
-This directory contains `answers.md`, a file outlining the benefits and purposes of using a Database Management System (DBMS). It covers topics such as data organization, consistency, security, and backup/recovery.
+This directory contains responses to individual topics on Software Engineering assignments.
