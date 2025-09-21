@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```sh
-    git clone <your-github-repo-url>
+    git clone https://github.com/nicanornicolas/PLP-ACADEMY.git
     cd library-api
     ```
 
